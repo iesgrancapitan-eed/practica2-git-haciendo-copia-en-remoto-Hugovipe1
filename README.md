@@ -25,4 +25,8 @@ git push -u origin main
 
     ![GitStatus](images/Captura%20de%20pantalla%202022-04-18%20a%20las%2018.00.16.png)
 
+    ![GitAdd](images/Captura%20de%20pantalla%202022-04-18%20a%20las%2019.13.00.png)
+
+    ![GitCommit](images/Captura%20de%20pantalla%202022-04-18%20a%20las%2019.17.15.png)
+
 2. Sincroniza tus cambios con el repositorio remoto (git push)
