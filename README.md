@@ -30,3 +30,4 @@ git push -u origin main
     ![GitCommit](images/Captura%20de%20pantalla%202022-04-18%20a%20las%2019.17.15.png)
 
 2. Sincroniza tus cambios con el repositorio remoto (git push)
+    ![GitPush](images/Captura%20de%20pantalla%202022-04-18%20a%20las%2019.20.19.png)
